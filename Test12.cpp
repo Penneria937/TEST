@@ -12,7 +12,6 @@ public:
     Human::name = name;
     this->name = name;
   }
-
   /*
     string getter(Human _human){
     string name;
